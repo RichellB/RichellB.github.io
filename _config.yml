@@ -1,11 +1,11 @@
 # Site settings
 author: Richell Bonfield
-title: 
+title: CLI DATA GEM PORTFOLIO PROJECT
 header-img: img/home-bg.png
 email: richell.bonfield12@gmail.com
 copyright_name: Richell Bonfield
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Book Reviews
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  RichellB
